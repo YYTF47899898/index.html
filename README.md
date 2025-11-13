@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Library Management System (Vanilla JS)</title>
+  <title>LIBRARY MANAGEMENT SYSTEM(Vanilla JS)</title>
   <style>
     :root{
       --bg:#f6f7fb; --card:#ffffff; --muted:#6b7280; --accent:#4f46e5; --success:#16a34a; --danger:#ef4444;
